@@ -4,7 +4,7 @@
 <title>Фоновое изображение</title>
 
  </head>
- <body bgcolor=white background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzER0hbcawNiuRtjRCU9Nu09NHIMcM0l8r0A&usqp=CAU">
+ <body bgcolor=white background="https://www.nawpic.com/media/2020/lock-screen-nawpic-6.jpg">
 
 <h1>PORTFOLIO</h1>
 
@@ -12,7 +12,7 @@
 
 <h2>Personal data</h2>
 
-<p><img src="https://www.meme-arsenal.com/memes/a13202136f3ed3b2ea0135fc70d4d239.jpg" alt="portfolio image" width="220" height="200"></p>
+<p><img src="https://www.google.com/search?q=cool+boy+image+cartoon&tbm=isch&hl=en&client=ms-android-xiaomi-rvo3&prmd=ivnx&sa=X&ved=2ahUKEwjUiPTM9Zr0AhUCxioKHSTpBQkQ3VZ6BAgBEAU&biw=393&bih=720#imgrc=OeykntPb0yychM" alt="portfolio image" width="220" height="200"></p>
 
 <hr>
 
